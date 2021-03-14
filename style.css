@@ -18,3 +18,14 @@ body {
 	height: 270px;
 }
 
+.cabecera {
+	margin: 0;
+	padding: 0;
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: royalblue;
+	color: white;
+	text-transform: uppercase;	
+}

@@ -1,3 +1,5 @@
 Hola soy manu, estoy realizando el curso de git & github
 en platzi con Fredi Vega.
 Este es el archivo final de prueba
+
+Hola soy Manu2 el nuevo trabajador! :)

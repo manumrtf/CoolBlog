@@ -26,7 +26,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: royalblue;
+  background-color: black;
   color: white;
   text-transform: capitalize;
 }
